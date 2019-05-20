@@ -5,3 +5,5 @@
 #Line3 in Statging area
 
 #linr4 in Working directory
+
+Adding someline
