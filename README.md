@@ -12,4 +12,4 @@ Inserting for rebase
 
 Line for rebase conflict 
 Line for rebase conflict mb
-Adding line for remote commit
+Adding line for local commit
