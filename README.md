@@ -17,3 +17,5 @@ Adding line for local commit
 Line on stash save
 
 Adding for multiple stashes
+
+Adding a line for merging stashing...
