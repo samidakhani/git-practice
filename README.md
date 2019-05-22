@@ -15,3 +15,5 @@ Line for rebase conflict mb
 Adding line for local commit
 
 Line on stash save
+
+Adding for multiple stashes
